@@ -1,0 +1,13 @@
+{
+  "name": "dosya-navigasyon-uygulamasi",
+  "version": "1.0.0",
+  "description": "Electron ile geliştirilen dosya navigasyon uygulaması",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^25.3.0",
+    "natural": "^6.3.0"
+  }
+}
